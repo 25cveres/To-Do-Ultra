@@ -3,7 +3,9 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {
+body
+
+{
   margin: 0;
   min-width: 250px;
 }
@@ -32,6 +34,17 @@ ul li {
   user-select: none;
 }
 
+
+h1{
+    text-align: center;
+    text-decoration: double;
+}
+
+
+p{
+    text-align: center;
+    text-decoration: underline;
+}
 
 ul li:nth-child(odd) {
   background: #f9f9f9;
@@ -122,21 +135,18 @@ input {
 </style>
 </head>
 <body>
-
+<h1>Szia üdvözöllek az első To-Do listámban!</h1>
+<p>Adj meg bármilyen teendőt és nyomj rá az ADD gombra, ezután a listában meg fog jelenni az adott aktivitás, rákatintással ki tudod húzni a tenedőd, ha már végesztél is vele.</p>
 <div id="myDIV" class="header">
-  <h2 style="margin:5px">My To Do List</h2>
+  <h2 style="margin:5px">Az én To-Do listám</h2>
   <input type="text" id="myInput" placeholder="Title...">
   <span onclick="newElement()" class="addBtn">Add</span>
 </div>
 
 <ul id="myUL">
-  <li>Hit the gym</li>
-  <li class="checked">Pay bills</li>
-  <li>Meet George</li>
-  <li>Buy eggs</li>
-  <li>Read a book</li>
-  <li>Organize office</li>
+
 </ul>
+
 
 <script>
 
