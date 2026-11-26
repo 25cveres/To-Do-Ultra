@@ -23,3 +23,15 @@ To-Do-Ultra/
 ├── script.js       # Alkalmazás logika
 └── README.md       # Dokumentáció
 ```
+
+## Közreműködők:
+<div align="center">
+   <a href="https://github.com/25cveres/To-Do-Ultra/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=25cveres/To-Do-Ultra"  alt="contrib.rocks image"/>
+   </a>
+   <br>
+Veres Botond
+&nbsp;
+Kovács Kristóf
+
+</div>
