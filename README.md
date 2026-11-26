@@ -24,6 +24,14 @@ To-Do-Ultra/
 └── README.md       # Dokumentáció
 ```
 
+## 💾 Használat
+
+Lokális használat
+
+   ```sh
+   git clone https://github.com/25cveres/To-Do-Ultra.git
+   ```
+
 ## Közreműködők:
 <div align="center">
    <a href="https://github.com/25cveres/To-Do-Ultra/graphs/contributors">
